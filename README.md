@@ -32,11 +32,13 @@ Este repositorio centraliza:
 ## 📦 ¿Qué incluye?
 
 El Generador de Documentos permite:
-- 📊 Crear documentos profesionales automáticamente
-- 🎨 Personalizar plantillas
-- ⚡ Procesamiento rápido y eficiente
-- 💾 Exportar en múltiples formatos
-- 🔐 Manejo seguro de datos
+- 📄 **Generación masiva de documentos Word** desde plantillas personalizadas
+- 📊 **Integración Excel-Word** - Carga datos en Excel y genera automáticamente documentos
+- ⚡ **Procesamiento por lotes** - Crea cientos de documentos en segundos
+- 🎨 **Plantillas editables** - Diseña tus propias plantillas Word con campos dinámicos
+- 🔄 **Automatización inteligente** - Reemplaza variables automáticamente desde tus datos
+- 💾 **Exportación directa** - Descarga todos los documentos generados listos para usar
+- 🎯 **Control total** - Personaliza cada aspecto de tus documentos antes de generar
 
 ---
 
