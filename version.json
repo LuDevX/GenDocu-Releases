@@ -1,1 +1,1 @@
-{"version": "2.1.8", "novedades": "Novedades: Se agrega nueva funcionalidad en la cual puedes arrastrar tus plantillas, excel y carpetas de destino.", "url": "https://portalwow.cl/descargas/instalador-portalwow"}
+{"version": "2.1.9", "novedades": "Corrección: Solucionado drag-and-drop en producción (UAC e inicialización del DOM)", "url": "https://portalwow.cl/descargas/instalador-portalwow"}
